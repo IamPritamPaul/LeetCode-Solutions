@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+.env/
+leetcode_python_env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE directories
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
